@@ -24,7 +24,7 @@ Key areas analyzed include:
 
 - Seller & Review Performance: Evaluated top-performing sellers based on review scores and analyzed rating score distribution for overall experience insights.
 
- <h5> SQL-based analysis was used to derive all core insights and is available for review here" </h5>
+ <h5> __SQL-based analysis was used to derive all core insights and is available for review in file uploaded above__ </h5>
 
 <h2>D.Dashboard Walkthrough</h2>
 <h3>Executive Summary</h3>
@@ -166,6 +166,24 @@ Even though there are many delayed orders (7,827), only 320 are considered "late
   cards often have higher purchasing power and are less price-sensitive than voucher users, who are usually budget-conscious and might be using vouchers specifically for discounts__.
 
   <h2>Recomendation:</h2>
+
+  - To sustain the strong performance seen among top-performing categories, it is recommended to further invest in targeted marketing campaigns for high-selling products. Simultaneously, explore opportunities to 
+    diversify underperforming categories through bundled offers or seasonal promotions, ensuring a balanced portfolio.
+
+  - Given the sharp fluctuations in monthly sales, it is advisable to implement predictive analytics to better forecast demand patterns. Enhancing inventory planning based on these forecasts can minimize 
+    stockouts during peak months and reduce overstock during low-demand periods.
+
+  - Since a few customer segments drive the majority of sales, introducing a loyalty program tailored for high-value customers could maximize retention and average spend. At the same time, a targeted campaign 
+    should be designed to nurture the smaller segments showing growth potential.
+
+  - Regional sales disparities suggest a need for localized marketing strategies. Allocating more resources towards high-performing regions while simultaneously running awareness campaigns in lower-performing 
+    areas can drive more uniform sales growth.
+
+  - The analysis shows critical products contributing heavily to revenue. To protect this revenue, it is recommended to ensure a reliable supply chain for these key products and consider upselling related items 
+    through cross-selling initiatives.
+
+  - Customer behavior trends indicate opportunities for personalization. By deploying customer segmentation models and delivering personalized product recommendations, the company can boost engagement rates and 
+    drive higher conversion.   
 
 
 
