@@ -24,9 +24,10 @@ Key areas analyzed include:
 
 - Seller & Review Performance: Evaluated top-performing sellers based on review scores and analyzed rating score distribution for overall experience insights.
 
- <h5> __SQL-based analysis was used to derive all core insights and is available for review in file uploaded above__ </h5>
+ <h4> SQL-based analysis was used to derive all core insights and is available for review in file uploaded above </h4>
 
 <h2>D.Dashboard Walkthrough</h2>
+
 <h3>Executive Summary</h3>
 
 ![Screenshot 2025-04-26 095308](https://github.com/user-attachments/assets/93ced24f-2fa8-4162-84de-b50eef83780c)
@@ -82,7 +83,7 @@ Key areas analyzed include:
 -  Categories like "Garden Tools" and "Cool Stuff" have the highest average freight charges, while "Watches" and "Bed & Bath" have lower freight values.__Bulkier or heavier products (like garden tools) cost more 
    to ship. In contrast, lightweight items (like watches) have lower logistics costs__.
 
-   3. Top 10 Products by Units Sold
+ 3. Top 10 Products by Units Sold
 
 - "Construction Tools" and "Tablets/Printing/Imaging" are the top-selling product categories by number of orders.__Construction and tech gadgets likely saw higher demand due to DIY trends, home upgrades, and 
    remote working needs, especially post-2022 when remote/home-based setups became normal__.
